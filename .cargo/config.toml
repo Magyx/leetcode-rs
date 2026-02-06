@@ -1,0 +1,4 @@
+[alias]
+xcopy = "run --release -- copy"
+xrun = "run --release --"
+xrund = "run --"
